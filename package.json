@@ -32,7 +32,7 @@
     "@babel/preset-env": "7.14.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "23.6.0",
-    "commitizen": "2.10.1",
+    "commitizen": "4.2.4",
     "condition-circle": "2.0.2",
     "cz-conventional-changelog": "2.1.0",
     "enzyme": "3.11.0",
